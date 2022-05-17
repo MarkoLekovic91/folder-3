@@ -1,0 +1,174 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.container {
+  border: black 3px solid;
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.kockica-1 {
+  background-color: white;
+  border: black 2px solid;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+  margin: 50px;
+  margin-left: 150px;
+}
+.tacka-1 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  left: 80px;
+  top: 80px;
+}
+.kockica-2 {
+  background-color: white;
+  border: black 2px solid;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+  margin: 50px;
+  margin-left: 150px;
+}
+.tacka-2 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.tacka-22 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+.kockica-3 {
+  background-color: white;
+  border: black 2px solid;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+  margin: 50px;
+  margin-left: 150px;
+}
+.tacka-3 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+.tacka-33 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.tacka-333 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  left: 80px;
+  top: 80px;
+}
+.kockica-4 {
+  background-color: white;
+  border: black 2px solid;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+  margin: 50px;
+  margin-left: 150px;
+}
+.tacka-4 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  bottom: 25px;
+  left: 25px;
+}
+.tacka-44 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
+.kockica-5 {
+  background-color: white;
+  border: black 2px solid;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+  margin: 50px;
+  margin-left: 150px;
+}
+.kockica-6 {
+  background-color: white;
+  border: black 2px solid;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+  margin: 50px;
+  margin-left: 150px;
+}
+.tacka-6 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  left: 25px;
+  top: 80px;
+}
+.tacka-66 {
+  background-color: black;
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  position: absolute;
+  right: 25px;
+  top: 80px;
+}
